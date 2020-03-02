@@ -5,7 +5,9 @@
 
 // Also, change the program so that it has an input as opposed to having to hard code the input everytime
 
-//Variables
+// This would be a fun extra activity next time I do Swift (obviously not the same, but different)
+
+// Variables
 var input: String = "Programming is fun!"
 var output: String = ""
 
